@@ -14,5 +14,5 @@
   
    
 # To develop (idea)
-  - 이미지 캡셔닝을 이용해서 조금 더 좋은 무엇인가를 만들 수 있지 않을까?- 24.0319
+  - 데이콘 이미지를 이용해서 이미지 캡셔닝 으로  데이콘의 문제보다 조금 더 재미있는 문제를 만들 수 있지 않을까 - 24.0319
   - https://github.com/minfengUCAS/show-attend-tell?tab=readme-ov-file 이미지 캡셔닝에 대한 깃허브 예1 
