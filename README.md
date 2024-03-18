@@ -14,5 +14,5 @@
   
    
 # To develop (idea)
-  - 이미지 캡셔닝을 이용해서 이미지에 얼굴 인식 or  사람의 특징 인식 후 사람 찾기 및 ai 감시로 이용 가능 하지 않을까? - 24.0319
+  - 이미지 캡셔닝을 이용해서 조금 더 좋은 무엇인가를 만들 수 있지 않을까?- 24.0319
   - https://github.com/minfengUCAS/show-attend-tell?tab=readme-ov-file 이미지 캡셔닝에 대한 깃허브 예1 
