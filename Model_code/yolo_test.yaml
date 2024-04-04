@@ -1,0 +1,27 @@
+path: "F:/workspace/datasets/yolo_test"
+train: images/train
+val: images/val
+
+names:
+  0: "bus"
+  1: "fire hydrant"
+  2: "car"
+  3: "person"
+  4: "tree"
+  5: "truck"
+  6: "scooter"
+  7: "bicycle"
+  8: "bench"
+  9: "bus_stop"
+  10: "utility_pole"
+  11: "motorcycle"
+  12: "obstacle"
+  13: "traffic light"
+  14: "green"
+  15: "elevator"
+  16: "stair"
+  17: "manhole"
+  18: "dog"
+  19: "trash"
+  20: "red"
+  21: "train_station"
