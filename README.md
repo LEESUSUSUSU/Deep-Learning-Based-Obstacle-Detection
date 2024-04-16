@@ -55,9 +55,7 @@ Deep-Learning-Based-Obstacle-Detection
 
 
 ## 3. YOLO v8 학습 과정 요약
-
 # 머신 러닝 모델 훈련 프로세스
-
 훈련 프로세스는 다음 단계로 구성됩니다:
 
 
