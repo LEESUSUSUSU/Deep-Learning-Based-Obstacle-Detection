@@ -59,7 +59,6 @@ Deep-Learning-Based-Obstacle-Detection
 # 머신 러닝 모델 훈련 프로세스
 
 훈련 프로세스는 다음 단계로 구성됩니다:
-![Machine Learning Training Process](/mnt/data/screenshot_2024-04-16_at_2.55.28.png)
 
 
 ## 1차 훈련
@@ -78,6 +77,11 @@ Deep-Learning-Based-Obstacle-Detection
 - **책기 최적화 + 학습률 수준 (100epoch)**
   - 최적화 기법을 적용하고 학습률을 조정하여 100 에포크 동안 마지막 훈련을 진행합니다.
  
+
+
+## 중심정렬 
+## 3D 렌더링에서 관찰점을 중앙으로 모으는 것을 "중심 정렬" 또는 "카메라 중심 정렬"이라고 한다 관찰자 시점에서 중심 정렬된 네모 박스는 사용자의 시선을 대변하여 위험한 물체나 상황을
+## 시각적으로 명확하게 보여줌으로써 대응 능력을 향상시켜 줄 것으로 가정함
 
 
 
