@@ -59,7 +59,8 @@ Deep-Learning-Based-Obstacle-Detection
 # 머신 러닝 모델 훈련 프로세스
 
 훈련 프로세스는 다음 단계로 구성됩니다:
-[##_Image|kage@tkEGm/btsGGRm7rBe/6zhbQOBur82YuDHdbokK00/img.png|CDM|1.3|{"originWidth":1289,"originHeight":419,"style":"alignCenter","filename":"%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-04-16%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%202.55.28.png"}_##]
+![Machine Learning Training Process](/mnt/data/screenshot_2024-04-16_at_2.55.28.png)
+
 
 ## 1차 훈련
 - **Train dataset = Val dataset (100epoch)**
